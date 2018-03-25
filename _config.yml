@@ -3,7 +3,7 @@ remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
 title: 'Jay Silverman'
-description: 'Data scientist, mover of culture towards data-driven risk reduction, aviator, father, and husband..'
+description: 'Data scientist, data-driven environment enabler, operating risk reducer, people leader, aviator, father, and husband.'
 
 # Images
 avatar: 'avatar.jpg'
@@ -11,26 +11,26 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
-facebook: ''
-twitter: ''
-linkedin: ''
-instagram: ''
-pinterest: ''
-youtube: ''
-github: ''
+facebook: 'https://www.facebook.com/jsilverman'
+twitter: 'https://twitter.com/Jason_Silverman'
+linkedin: 'https://www.linkedin.com/in/jay-silverman-82776619/'
+instagram: 'https://www.instagram.com/techneaux/'
+pinterest: 'https://www.pinterest.com/techneaux/'
+#youtube: ''
+github: 'https://github.com/Techneaux'
 #codepen: ''
 #steam: ''
 #soundcloud: ''
 #lastfm: ''
-#stack-overflow: ''
+stack-overflow: 'https://stackoverflow.com/users/7555028/jay-silverman'
 #reddit: ''
 #medium:  ''
 #tumblr: ''
-weibo: ''
-vk: ''
-blog_url: ''
-email: ''
-messenger: ''
+#weibo: ''
+#vk: ''
+#blog_url: ''
+email: 'jason.silverman.fromsite@gmail.com'
+#messenger: ''
 
 # Advanced settings
 plugins:
