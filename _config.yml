@@ -3,7 +3,7 @@ remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
 title: 'Jay Silverman'
-description: 'Data scientist, enabler of data-driven environments, reducer of operating risks, people leader, aviator, father, husband.'
+description: 'Data scientist, enabler of data-driven cultures, reducer of manufacturing operating risks, people leader, aviator.'
 
 # Images
 avatar: 'avatar.jpg'
@@ -15,10 +15,10 @@ linkedin: 'jay-silverman-82776619/'
 stack-overflow: '7555028/jay-silverman'
 email: 'jason.silverman.via.homepage@gmail.com'
 github: 'Techneaux'
-facebook: 'jsilverman'
+#facebook: 'jsilverman'
 twitter: 'Jason_Silverman'
-instagram: 'techneaux/'
-pinterest: 'techneaux/'
+#instagram: 'techneaux/'
+pinterest: 'techneaux'
 #youtube: ''
 #codepen: ''
 #steam: ''
